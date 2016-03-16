@@ -334,59 +334,57 @@ a.button { display: inline-block; }
 .footweb{
 	width: 600px;
 	height:400px;
+	margin:0 auto;
+	top:20px;
 	background:#fafafa
 	border: 3px solid #fff;
 	border-radius: 12px;
-	position: relative;
-	left:180px;
-	top:20px;
 }
 
 @media (min-width: 960px) {
-	.footweb { width: 600px;
-	height:400px;left:180px;top:20px;}
+	.footweb { width: 600px;height:400px;}
 }
 
 
 @media (max-width: 768px) {
 	.footweb { width: 600px;
-	height:400px;left:70px;top:20px;}
+	height:400px;}
 }
 
 @media (max-width: 639px) {
 	.footweb { width: 300px;
-	height:300px;left:30px;top:20px;}
+	height:300px;}
 }
 
 @media (max-width: 600px) {
 	.footweb { width: 400px;
-	height:300px;left:80px;top:20px;}
+	height:300px;}
 }
 
 @media (max-width: 435px) {
 	.footweb { width: 340px;
-	height:300px;left:25px;top:20px;}
+	height:300px;}
 }
 
 
 @media (max-width: 414px) {
 	.footweb { width: 300px;
-	height:300px;left:40px;top:20px;}
+	height:300px;}
 }
 
 @media (max-width: 375px) {
 	.footweb { width: 300px;
-	height:300px;left:19px;top:20px;}
+	height:300px;}
 }
 
 @media (max-width: 360px) {
 	.footweb { width: 300px;
-	height:300px;left:14px;top:20px;}
+	height:300px;}
 }
 
 @media (max-width: 320px) {
 	.footweb { width: 260px;
-	height:240px;left:11px;top:20px;}
+	height:240px;}
 }
 
 
